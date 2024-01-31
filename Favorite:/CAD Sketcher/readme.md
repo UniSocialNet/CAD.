@@ -1,5 +1,7 @@
 # CAD Sketcher
-https://www.cadsketcher.com/
+Home:
+- https://www.cadsketcher.com/
+- download: https://makertales.gumroad.com/l/CADsketcher
 
 video:
 - [CAD In Blender Is HERE! | CAD Sketcher Intro | Constraint Driven Design](https://youtu.be/92QmjS-xDaI)
